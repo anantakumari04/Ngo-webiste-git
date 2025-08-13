@@ -1,6 +1,6 @@
 # 🌍 NGO Website
 
-![NGO Banner](public/banner.png)
+![NGO Banner](img/ngo.png)
 
 > A modern NGO web application built with **HTML**, **CSS**, **JavaScript**, and **MongoDB** — helping people connect, donate, and adopt ❤️
 
