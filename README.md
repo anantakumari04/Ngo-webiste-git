@@ -28,14 +28,14 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](public/home.png)
+### 🏠 Our Work
+![Home Page](img/work.png)
 
 ### ❤️ Donate Page
-![Donate Page](public/donate.png)
+![Donate Page](img/donate1.png)
 
-### 🐾 Adopt Page
-![Adopt Page](public/adopt.png)
+### 🐾 Login Page
+![Adopt Page](img/login.png)
 
 ---
 
